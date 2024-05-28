@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning aficionado!<br><br>🔭 I'm an Aspiring Machine Learning Engineer<br><br>🌱 I’m currently learning Docker, Streamlit, Scikit-Learn, Keras
+**Machine Learning aficionado!** <br><br>🔭 I'm an Aspiring Machine Learning Engineer<br><br>🌱 I’m currently learning Docker, Streamlit, Scikit-Learn, Keras
 
 
 ## 🌐 Socials:
