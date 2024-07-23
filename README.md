@@ -1,8 +1,13 @@
-# 💫 About Me:
-**Machine Learning aficionado!** <br><br>🔭 I'm an Aspiring Data Scientist/Machine Learning Engineer<br><br>🌱 I’m currently learning all things Machine Learning and Deep Learning!
+# Hello, I'm Mohamed!
+### Machine Learning Aficionado
 
+🔭 **Current Focus**: Diving deep into the world of Machine Learning and Deep Learning. Exploring various models, techniques, and real-world applications to solve complex problems.
 
-## 🌐 Socials:
+🌱 **Continuous Learner**: Constantly enhancing my skills and knowledge in Machine Learning and Deep Learning. Passionate about leveraging data to drive insights and innovation.
+
+💡 **Projects**: I love working on hands-on projects that involve data collection, preprocessing, model building, and deployment. Check out some of my work below!
+
+## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed-Al-Mamari) 
 
 # 💻 Tech Stack:
